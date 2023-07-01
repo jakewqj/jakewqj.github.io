@@ -19,3 +19,7 @@ package-lock.json
 .vscode
 
 # Misc
+assets/.DS_Store
+assets/img/.DS_Store
+_posts/.DS_Store
+.DS_Store
