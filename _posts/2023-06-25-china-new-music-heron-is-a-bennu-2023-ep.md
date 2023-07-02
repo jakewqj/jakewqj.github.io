@@ -29,7 +29,7 @@ Check out the song below along with the EP tracklist.
 03 My Dream 
 04 Fairy Tale
 
-{% include spotifyalbum.html id=3qGtF1IXCOnTeIO5JYmlcl %}
+{% include embed/spotifyalbum.html id=3qGtF1IXCOnTeIO5JYmlcl %}
 
 
 
