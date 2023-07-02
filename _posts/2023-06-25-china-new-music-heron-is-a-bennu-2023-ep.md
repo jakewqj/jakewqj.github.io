@@ -16,8 +16,10 @@ spotifyalbum: spotify/album/3qGtF1IXCOnTeIO5JYmlcl
 ---
 
 Bennu is a Heron has announced the launch of EP “despite the world is so big, but not a corner belongs to me,” the first official release from the Guangzhou emoviolent/skramz band in 3 years. And physical formats (LP/CD/Tape)  will arrive in October. It leads a four-track EP, “Home, Sweet Home” released on June 20th via [Sango Records](https://sangorecords.thebase.in/). The song was fisrtly shared by Jinbo, band leader and the vocal, who said in a social statement, 
-> ["This song summarizes my 29 years of reflection, and until now, there is still no answer. But I think I no longer need one."](/ "这首歌概括了我29年的总结，至今仍无答案，但我想已经不需要了。")
-The official statement added:
+> ["This song summarizes my 29 years of reflection, and until now, there is still no answer. But I think I no longer need one."](/ "这首歌概括了我29年的总结，至今仍无答案，但我想已经不需要了。")  
+
+The official statement added:  
+
 > Four songs, faithfully presented as a self-recorded reflection, dedicated to us from 2019 to 2022. Best wishes.  
 
 Check out the song below along with the EP tracklist.  
