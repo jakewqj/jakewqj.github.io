@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Golden Cage 乐队：我们都困在一个金色的里
+title: An Interview with Golden Cage
 date: 2013-09-11 00:40
 author: JakeWu
 comments: true
