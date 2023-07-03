@@ -13,7 +13,7 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -42,13 +42,13 @@ social:
   email: jakewqj@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/jjgensto # change to your twitter homepage
+    - https://twitter.com/wuthedude # change to your twitter homepage
     - https://github.com/jakewqj # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/jakewqj
     # - https://www.linkedin.com/in/jake-qijie-wu
 
-google_site_verification: # fill in to your verification string
+google_site_verification: google-site-verification=E_qxEr9epVh_IlS5Y6jPcdtrRiI3SNmfoxLmSIEi27o
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
