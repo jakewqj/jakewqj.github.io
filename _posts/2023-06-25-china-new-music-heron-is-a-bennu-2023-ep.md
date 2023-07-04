@@ -31,9 +31,10 @@ Check out the song below along with the EP tracklist.
 - 03 My Dream 
 - 04 Fairy Tale
 
+
+```liquid
 {% include embed/spotifyalbum.html id=3qGtF1IXCOnTeIO5JYmlcl %}
-
-
+```
 
 ### About Bennu is a Heron
 [Based in Guanghzou, Bennu is a Heron is a Skramz/Emoviolence band formed by members from various hardcore bands. They express their inner emotions straightforwardly, taking what they see, hear, and think as their starting point.](https://sangorecords.bandcamp.com/album/despite-the-world-is-so-big-but-not-a-corner-belongs-to-me "贝努是只苍鹭，来自广州的 Skramz / Emoviolence 乐团，由多支 Hardcore 乐团的乐手组成。 以所见、所闻、所想为出发点，直白陈述内心情绪。")
