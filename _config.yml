@@ -20,10 +20,10 @@ timezone: Asia/Shanghai
 
 title: Jake Wu # the main title
 
-tagline: PR Manager at Donenr Music # it will display as the sub-title
+tagline: A blog by Jake Wu. # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  A blog by Jake WU who talks about Music Industry and Chinese indie music.
+description: >- 
+  
   
 
 # fill in the protocol & hostname for your site, e.g., 'https://jakewqj.github.io'

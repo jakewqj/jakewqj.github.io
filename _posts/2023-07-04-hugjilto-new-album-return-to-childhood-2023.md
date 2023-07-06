@@ -14,7 +14,7 @@ image:
   alt: Hugjilto 2023 New Album - Return to Childhood
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="//music.163.com/outchain/player?type=1&id=168814596&auto=1&height=430"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 align=center src="//music.163.com/outchain/player?type=1&id=168814596&auto=1&height=430"></iframe>
 
 ## 关于时间和成长
 《还童》是胡格吉乐图的个人回忆录，是一张记录了关于时间和成长故事的专辑。专辑承载了胡格吉乐图在音乐路上不断的探索，胡格在这次音乐创作中回到孩子的角色，回归家庭，回归原来的感觉。《还童》专辑共九首歌，由胡格吉乐图新创作的六首歌，还有三首与其父亲在世时的录音对唱组成，记录了胡格吉乐图身处不同年龄段的经历与感悟。胡格的新专辑冲破了时空的限制将过去与现在重新连结，谱写成新的故事循环往复。
