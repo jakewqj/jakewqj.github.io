@@ -28,7 +28,7 @@
 
 .preview-img {
   overflow: hidden;
-  aspect-ratio: 40 / 21;
+  aspect-ratio: auto;
 
   @extend %rounded;
 
