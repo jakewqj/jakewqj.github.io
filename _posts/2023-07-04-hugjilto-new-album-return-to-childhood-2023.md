@@ -14,10 +14,7 @@ image:
   alt: Hugjilto 2023 New Album - Returning to Childhood
 ---
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 align=center src="//music.163.com/outchain/player?type=1&id=168814596&auto=1&height=430"></iframe>
-
-
-Beijing, July 4th, Hugjiltu, the talented Chinese-Mongolian singer-songwriter, announces the release of his latest album, 'Returning to Childhood.' The album is now available on Music.163.com and the QQ Music app. The physical format will be available on July 14th at Jianghu Livehouse in Beijing, where there will be a debut concert starting at 20:30. 
+Beijing, July 4th, Hugjiltu, the talented Chinese-Mongolian singer-songwriter, announces the release of his latest album, 'Returning to Childhood.' The album is now available on [Music.163.com](https://music.163.com/#/album?id=168814596) and the QQ Music app. The physical format will be available on July 14th at Jianghu Livehouse in Beijing, where there will be a debut concert starting at 20:30. 
 
 ## About Growing up 
 'Returning to Childhood' is an album about growth and the passage of time. It represents Hugjiltu's continuous musical journey, as well as his experiences at different times and stages of his life.The album has nine songs in total--six newly created by Hugjiltu and three duets with recordings of his late father (Laosier). Using music to break through the limitations of time and space, Hugjiltu reconnects the past and the present and writes a new form of story cycle.

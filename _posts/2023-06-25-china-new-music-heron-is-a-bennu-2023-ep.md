@@ -9,7 +9,7 @@ pin: false
 math: true
 mermaid: true
 image:
-  path: /gh/jakewqj/blog-static-assets@main/assets/img/blog/heron-is-a-heron-ep-2023.png
+  path: /gh/jakewqj/blog-static-assets@main/assets/img/blog/heron-is-a-heron-ep-2023.jpg
   
   alt: Bennu is a Heron New EP 2023
 spotifyalbum: spotify/album/3qGtF1IXCOnTeIO5JYmlcl
