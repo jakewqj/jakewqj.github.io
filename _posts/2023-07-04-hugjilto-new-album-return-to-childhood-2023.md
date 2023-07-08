@@ -39,17 +39,6 @@ In addition to being responsible for the songwriting and composition of all the 
 - Publisher: Li Peng
 
 
-### About Hugjilto
-胡格吉乐图来自内蒙古扎鲁特。擅长演奏马头琴、吉他、胡笳。曾经和杭盖乐队、大忘杠乐队、阿基耐乐队（点击阅读我在2015年马来西亚槟城世界音乐节对[阿基耐乐队的采访](https://jakewqj.github.io/posts/penang-interview-with-ajinai/))、旅行者乐队、GAAL乐队在世界各地巡演。
-
-Hugjiltu is from Zalute in Inner Mongolia. He excels in playing the morin khuur (horsehead fiddle), guitar, and hujia (a type of flute). He has toured worldwide with bands such as Hanggai, DaWangGang, Ajinai ([My interview with Ajinai](https://jakewqj.github.io/posts/penang-interview-with-ajinai/) at the 2015 Penang World Music Festival in Malaysia), Traveler Band, and GAAL Band.
-
-### About Kairan He / 何恺然
-打击乐手，JUMIO TRIO 乐队、央吉玛乐队成员。毕业于天津音乐学院，西洋打击乐专业，硕士学位。除了古典打击乐器，何恺然还致力于研究与演奏多种世界民族打击乐器，擅长拇指琴、铃鼓、udu等各种打击类乐器。
-
-He Kairan is a percussionist and member of both the JUMIO TRIO band and the Yangjima band. He graduated from Tianjin Conservatory of Music with a master's degree in Western percussion. In addition to classical percussion instruments, He Kairan is dedicated to studying and performing various world ethnic percussion instruments. He excels in playing instruments such as thumb piano, bells, udu, and various other percussion instruments.
-
-
 ## 关于时间和成长
 《还童》是胡格吉乐图的个人回忆录，是一张记录了关于时间和成长故事的专辑。专辑承载了胡格吉乐图在音乐路上不断的探索，胡格在这次音乐创作中回到孩子的角色，回归家庭，回归原来的感觉。《还童》专辑共九首歌，由胡格吉乐图新创作的六首歌，还有三首与其父亲劳斯而在世时的录音对唱组成，记录了胡格吉乐图身处不同年龄段的经历与感悟。胡格的新专辑冲破了时空的限制将过去与现在重新连结，谱写成新的故事循环往复。
 
@@ -70,6 +59,17 @@ He Kairan is a percussionist and member of both the JUMIO TRIO band and the Yang
 - 插画：哈斯（胡格吉乐图母亲）
 - 平面设计：吴娜嘉
 - 出品人：李鹏
+
+
+### About Hugjilto
+胡格吉乐图来自内蒙古扎鲁特。擅长演奏马头琴、吉他、胡笳。曾经和杭盖乐队、大忘杠乐队、阿基耐乐队（点击阅读我在2015年马来西亚槟城世界音乐节对[阿基耐乐队的采访](https://jakewqj.github.io/posts/penang-interview-with-ajinai/))、旅行者乐队、GAAL乐队在世界各地巡演。
+
+Hugjiltu is from Zalute in Inner Mongolia. He excels in playing the morin khuur (horsehead fiddle), guitar, and hujia (a type of flute). He has toured worldwide with bands such as Hanggai, DaWangGang, Ajinai ([My interview with Ajinai](https://jakewqj.github.io/posts/penang-interview-with-ajinai/) at the 2015 Penang World Music Festival in Malaysia), Traveler Band, and GAAL Band.
+
+### About Kairan He / 何恺然
+打击乐手，JUMIO TRIO 乐队、央吉玛乐队成员。毕业于天津音乐学院，西洋打击乐专业，硕士学位。除了古典打击乐器，何恺然还致力于研究与演奏多种世界民族打击乐器，擅长拇指琴、铃鼓、udu等各种打击类乐器。
+
+He Kairan is a percussionist and member of both the JUMIO TRIO band and the Yangjima band. He graduated from Tianjin Conservatory of Music with a master's degree in Western percussion. In addition to classical percussion instruments, He Kairan is dedicated to studying and performing various world ethnic percussion instruments. He excels in playing instruments such as thumb piano, bells, udu, and various other percussion instruments.
 
 ### About Li Hong / 李鸿
 非洲鼓老师、匠人。
