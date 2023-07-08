@@ -16,8 +16,11 @@ image:
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 align=center src="//music.163.com/outchain/player?type=1&id=168814596&auto=1&height=430"></iframe>
 
+
+Beijing, July 4th, Hugjiltu, the talented Chinese-Mongolian singer-songwriter, announces the release of his latest album, 'Returning to Childhood.' The album is now available on Music.163.com and the QQ Music app. The physical format will be available on July 14th at Jianghu Livehouse in Beijing, where there will be a debut concert starting at 20:30. 
+
 ## About Growing up 
-“Returning to Childhood” is an album about growth and the passage of time. It represents Hugjiltu's continuous musical journey, as well as his experiences at different times and stages of his life.The album has nine songs in total--six newly created by Hugjiltu and three duets with recordings of his late father (Laosier). Using music to break through the limitations of time and space, Hugjiltu reconnects the past and the present and writes a new form of story cycle.
+'Returning to Childhood' is an album about growth and the passage of time. It represents Hugjiltu's continuous musical journey, as well as his experiences at different times and stages of his life.The album has nine songs in total--six newly created by Hugjiltu and three duets with recordings of his late father (Laosier). Using music to break through the limitations of time and space, Hugjiltu reconnects the past and the present and writes a new form of story cycle.
 
 > This album does not aim to please any specific group; it is not confined to any particular style or label. It is an album dedicated to myself and my loved ones. - Hugjilto
 
@@ -38,6 +41,8 @@ In addition to being responsible for the songwriting and composition of all the 
 - Graphic Design; Wu Najia
 - Publisher: Li Peng
 
+
+北京，7月4日，来自中国内蒙古音乐人胡格吉乐图宣布发行他的最新专辑《还童》。该专辑现已在网易云音乐和QQ音乐应用上线，搜索“胡格音乐”。《还童》实体唱片将于7月14日在北京江湖音乐厅正式发售，届时将举行20:30开始的首演音乐会。
 
 ## 关于时间和成长
 《还童》是胡格吉乐图的个人回忆录，是一张记录了关于时间和成长故事的专辑。专辑承载了胡格吉乐图在音乐路上不断的探索，胡格在这次音乐创作中回到孩子的角色，回归家庭，回归原来的感觉。《还童》专辑共九首歌，由胡格吉乐图新创作的六首歌，还有三首与其父亲劳斯而在世时的录音对唱组成，记录了胡格吉乐图身处不同年龄段的经历与感悟。胡格的新专辑冲破了时空的限制将过去与现在重新连结，谱写成新的故事循环往复。
