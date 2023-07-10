@@ -9,7 +9,12 @@ order: 4
 
 I started my career as an editor for one of the best-selling music instrument magazines in China, the `Modern Player Magazine` based in Beijing. 
 
-I have become an experienced professional in music industry with a demonstrated history of working in the music and ecommerce industry for 10 years. I focus on good marketing strategies and sourcing solutions. Permanent promoter for Chinese indie music. 
+I have become an experienced professional in music industry with a demonstrated history of working in the music and ecommerce industry for 10 years. I focus on 
+- good content 
+- good marketing strategies 
+- promotion for Chinese indie music.
+
+During my previous venture in e-commerce, I also established strong connections with reputable Chinese suppliers specializing in consumer electronics, lighting fixtures, and musical instruments.
 
 I am now the PR manager at [Donner Music](https://www.donnermusic.com). Unless otherwise noted, the views expressed on these pages are mine alone and not those of my employer. 
 
