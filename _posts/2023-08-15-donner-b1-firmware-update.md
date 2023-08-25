@@ -3,7 +3,7 @@ title: Donner Essential B1 Bass Synthesizer Major Firmware Update
 tagline: Updating to V1.1.0 brings SONG MODE and More features
 author: jake
 date: 2023-08-15 19:00:00 +0800
-categories: [Donner Press Release]
+categories: [Donner Press Release, Press Release]
 tags: [Donner,Synthesizer]
 pin: false
 math: true
