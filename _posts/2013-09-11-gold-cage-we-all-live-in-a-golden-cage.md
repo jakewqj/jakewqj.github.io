@@ -2,7 +2,7 @@
 layout: post
 title: An Interview with Golden Cage
 date: 2013-09-11 00:40
-author: JakeWu
+author: jake
 comments: true
 categories: [Interview]
 tags: [indie,chinese band]
