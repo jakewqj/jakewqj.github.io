@@ -44,11 +44,11 @@ layout: page
 {% assign sort_categories = site.categories | sort %}
 
 {% for category in sort_categories %}
-  {% assign category_name = category | first %}
+  {% assign category_name = Donner Press Release %}
   {% assign posts_of_category = category | last %}
   {% assign first_post = posts_of_category | first %}
 
-  {% if category_name == first_post.categories[0] %}
+  {% if category_name == Donner Press Release %}
     {% assign sub_categories = '' | split: '' %}
 
     {% for post in posts_of_category %}
