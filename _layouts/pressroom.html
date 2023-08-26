@@ -20,7 +20,6 @@ layout: page
     {% assign last_year = cur_year %}
   {% endif %}
 
-  {% if categoeries_name == Donner Press Release %}
   <li>
   {% assign ts = post.date | date: '%s' %}
     <span class="date day" data-ts="{{ ts }}" data-df="DD">{{ post.date | date: "%d" }}</span>
@@ -29,7 +28,6 @@ layout: page
     </span>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
   </li>
-{% end if %}
   {% if forloop.last %}</ul>{% endif %}
 
 {% endfor %}
