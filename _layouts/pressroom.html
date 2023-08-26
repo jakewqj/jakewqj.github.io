@@ -29,7 +29,7 @@ layout: page
     </span>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
   </li>
-
+{% end if %}
   {% if forloop.last %}</ul>{% endif %}
 
 {% endfor %}
