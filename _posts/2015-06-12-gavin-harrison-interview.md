@@ -5,19 +5,20 @@ date: 2015-06-12 16:53
 author: jake
 comments: true
 categories: [Interview]
-
+math: true
+mermaid: true
+image: path: /gh/jakewqj/blog-static-assets@main/assets/img/blog/gavin-harrison-porcupine-tree-zildjian-beijing.jpg
+    alt: gavin harrison king crimson porcupine tree
+    
 ---
 
 > “很多东西并不是原本就存在的，你总需要自己制造出来。”
-
-
-<img class="alignleft" title="Gavin Harrison in Yugongyishan Livehouse, Beijing, 2012" src="http://ww1.sinaimg.cn/large/4bc28a77gw1et1d4icl5oj20lc0w0n11.jpg" alt="" width="260" height="391" />
 
 - Photo: Xiaomei
 - Written by Jake Wu
 - Beijing, October 25, 2012
 
-来自英国的GavinHarrison是一名非常独特的鼓手，他极强的创作力似乎与生俱来般地流淌在他的血液里。他可以轻松自然地制造新的素材，无需绞尽脑汁的过程便能融进自己的音乐中。从上世纪80年代开始，Gavin 便开始为各种艺人当伴奏鼓手出现在各大现场，其中不乏Iggy Pop、Claudio Baglioni 等大牌音乐人。除此之后外他参与录制的录音专辑数量超过120张。在2002年加入了英国著名前卫摇滚乐队 Porcupine Tree，Gavin Harrison 在39岁的时候第一次成为了乐队中的一员；在2007年开始至今，他还担任了另一支前卫摇滚乐<strong>King Crimson 的客席鼓手，并与乐队以双鼓手阵营一起巡演。成为”乐队人”之后，Gavin Harrison 的名声也逐渐建立了起来，从2007年到2010年连续四年他获得了《Modern Drummer》杂志读者评选的“最佳前卫摇滚鼓手”称号。
+来自英国的GavinHarrison是一名非常独特的鼓手，他极强的创作力似乎与生俱来般地流淌在他的血液里。他可以轻松自然地制造新的素材，无需绞尽脑汁的过程便能融进自己的音乐中。从上世纪80年代开始，Gavin 便开始为各种艺人当伴奏鼓手出现在各大现场，其中不乏Iggy Pop、Claudio Baglioni 等大牌音乐人。除此之后外他参与录制的录音专辑数量超过120张。在2002年加入了英国著名前卫摇滚乐队 Porcupine Tree，Gavin Harrison 在39岁的时候第一次成为了乐队中的一员；在2007年开始至今，他还担任了另一支前卫摇滚乐 King Crimson 的客席鼓手，并与乐队以双鼓手阵营一起巡演。成为”乐队人”之后，Gavin Harrison 的名声也逐渐建立了起来，从2007年到2010年连续四年他获得了《Modern Drummer》杂志读者评选的“最佳前卫摇滚鼓手”称号。
 
 2012年2月，Gavin Harrison 与贝司演奏家05Ric推出了他们的第三张合作专辑——《The Man Who Sold Himself》，“在这张专辑里我们继续探索着鼓点节奏和旋律的可能性，我相信里面的节奏概念是我与05Ric的多次合作中最疯狂的一次”，Gavin如是评论道。豪不夸张地说与Ric 的合作是Gavin Harrison 的创作灵感得以极致迸发的机会，在他的鼓点里你仿佛可以体会到乐器的无限可能性。他就像个魔术师，让你感到你听到的并不是你看到的。
 
@@ -25,21 +26,20 @@ categories: [Interview]
 
 
 - 在成为Zildjian 代言人之前你就有买他们的镲片是吗？
-
 > G：是的，成为代言人之前我一直有买Zildjian的镲片。因为我很喜欢Zildjian镲片的音色，非常悦耳，而且它多样化的功能也很适合我的演奏风格。
 
 - 你在镲片上有什么追求？
 > G：Hm。.我希望我的镲片能带来不同的音色，有更多的声效，我希望可以的话是三维的而非只有单维。你可以在演奏中加入牛铃，加入吊镲，并且用不同的方法敲打它们，创作出不同的音色。
 
-- 在你的设备单中显示，你使用不同系列的Zildjian</strong><strong>镲片，包括A, A Custom, K, K Custom, Z</strong><strong>等多个系列。你是怎么从众多镲片中选择合适的那一片的呢？</strong>
+- 在你的设备单中显示，你使用不同系列的Zildjian 镲片，包括A, A Custom, K, K Custom, Z等多个系列。你是怎么从众多镲片中选择合适的那一片的呢？
 
 > G：是的，几乎所有镲片我都用。我不会固定地只用一种镲片；事实上我所用的这些镲片的声音我都很喜欢。无论是Z系列还是K系列，对于我来说只要我觉得它的音色好听，并且适合我的演奏，我就会用。一些镲片的音色可能会太暗或者过于地亮，但是Zildjian大多数系列的镲片对我来说还是挺不错的，他们的结合起来的音效也不会很怪。
 
-- 在同一套鼓中也会使用不同系列的镲片吗？</strong>
+- 在同一套鼓中也会使用不同系列的镲片吗？
 
 > G：是的。
 
-- 你更换镲片的频率高吗？</strong>
+- 你更换镲片的频率高吗？
 > G：我自己有很多镲片，如果是录音的话我可能会更换踩镲或者吊镲，取决于哪块镲片会更适合所要录制的歌曲。我家里放着许多Zildjian的镲片，当我听完一首歌之后，我会决定合适的踩镲、合适的吊镲，甚至中国镲。在录音过程我可能会为每首歌都更换镲片；而现场的演出包括今晚的我会选择能适用于多种风格的镲片，因为你会听到我会表演多种风格，包括爵士乐、前卫摇滚、重金属等等。
 
 - 能说说在你踩镲旁的五个小铃铛是怎么回事吗？
