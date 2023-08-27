@@ -5,7 +5,7 @@ author: jake
 date: 2023-07-04 19:00:00 +0800
 categories: [New Music]
 tags: [chinese music,indie china,world music,世界音乐,马头琴]
-pin: false
+pin: true
 math: true
 mermaid: true
 image:

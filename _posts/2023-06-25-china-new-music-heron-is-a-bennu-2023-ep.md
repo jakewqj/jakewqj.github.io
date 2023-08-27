@@ -5,7 +5,7 @@ author: jake
 date: 2023-06-25 19:00:00 +0800
 categories: [New Music]
 tags: [chinese music,indie china]
-pin: false
+pin: true
 math: true
 mermaid: true
 image:
