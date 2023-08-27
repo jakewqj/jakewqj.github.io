@@ -5,6 +5,7 @@ date: 2015-08-01 23:08
 author: jake
 comments: true
 categories: [Interview]
+pin: true
 tags: [ajinai,mogonlia,world music,chinese music,hugejiletu]
 math: true
 mermaid: true
