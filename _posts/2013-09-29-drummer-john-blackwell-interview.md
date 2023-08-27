@@ -7,7 +7,7 @@ categories: [Interview]
 tags: [现代乐手 modern player mag,prince,zildjian]
 pin: true
 image:
-  path: /gh/jakewqj/blog-static-assets@main/assets/img/blog/john-blackwell-jr-jakewu.jpg
+  path: /gh/jakewqj/blog-static-assets@main/assets/img/media-export-wp/2015/04/john-blackwell-jr-jakewu.jpg
 
 ---
 
