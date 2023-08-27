@@ -2,7 +2,7 @@
 title: An Interview with Gavin Harrison from Porcupine Tree
 tagline: 
 author: jake
-date: 2023-07-04 19:00:00 +0800
+date: 2014-07-04 19:00:00 +0800
 categories: [Interview]
 tags: [gavine harrison,drummer,zildjian,porcupine tree]
 pin: true
@@ -14,7 +14,7 @@ image:
   alt: gavin harrison king crimson porcupine tree
 ---
 
-## > “很多东西并不是原本就存在的，你总需要自己制造出来。”
+## "很多东西并不是原本就存在的，你总需要自己制造出来。"
 
 - Photo: Xiaomei
 - Written by Jake Wu
@@ -112,13 +112,12 @@ image:
 > G：哈哈，我没有最喜爱的鼓手，我听很多鼓手的音乐，但要比较都在做同一种事情的人真的挺难的。
 
 - 或者我这样问：谁影响你最多呢？
-G：Steve Gadd、Jeff Porcaro、Simon Philips、Stewart Copeland、Billy Cobham、Steve Janson…很多很多，我不会只有一个所谓的“偶像”。
+> G：Steve Gadd、Jeff Porcaro、Simon Philips、Stewart Copeland、Billy Cobham、Steve Janson…很多很多，我不会只有一个所谓的“偶像”。
 
-&nbsp;
 
 [caption id="" align="aligncenter" width="522"]<a href="http://ww4.sinaimg.cn/large/4bc28a77gw1et04u44qelj20w00lctdz.jpg"><img class="" src="http://ww4.sinaimg.cn/large/4bc28a77gw1et04u44qelj20w00lctdz.jpg" alt="Gavin Harrison drumset" width="522" height="348" /></a> Gavin Harrison 当晚的 drumset。摄影师：小梅[/caption]
 
-## > “创造力是一个鼓手的很重要的品质”
+##  “创造力是一个鼓手的很重要的品质”
 
 - 在2007年你和贝司手Ric开始长期合作，你的这些个人发展相对你在乐队中鼓手的身份是否会给你有更大的创作空间呢？
 
@@ -189,5 +188,5 @@ G：Steve Gadd、Jeff Porcaro、Simon Philips、Stewart Copeland、Billy Cobham�
 - 未来有什么计划？
 > G：许多计划，会有许多乐队伴奏工作，还会有一个大型爵士乐队的录音。
 
-有什么话想对中国的鼓手和音乐人说的吗？
-G：这是我第一次来中国，希望下次能和我的乐队Porcupine Tree一起与大家再会！
+- 有什么话想对中国的鼓手和音乐人说的吗？
+> G：这是我第一次来中国，希望下次能和我的乐队Porcupine Tree一起与大家再会！
