@@ -8,7 +8,7 @@ categories: [Interview]
 tags: [indie,chinese band]
 pin: true
 image: 
-    path: /gh/jakewqj/blog-static-assets/@main/assets/img/media-export-wp/2017/02/golden-cage-guangzhou-band.jpg
+    path: /gh/jakewqj/blog-static-assets/@main/assets/img/blog/golden-cage-guangzhou-band.jpg
     alt: golden cage interview guangzhou underground indie rock band music 
 ---
 香港曾经有一支独立乐队叫False Alarm，他们有一首歌叫“Golden Cage”，歌词里表达了城市人的光鲜外表下却处处都有着不可避免的束缚，现代的人们看似有着很多的选择，殊不知却渐渐被困在一个金色的牢笼里。广州乐队Golden Cage 的取名灵感便是来自于此。
