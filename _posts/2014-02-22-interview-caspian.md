@@ -1,15 +1,14 @@
 ---
-title: Sigur Rós with balls - An Interview With Post-Rock Band Caspian
-date: 2014-02-10 20:38
-author: jakewqj
+title: Sigur Rós with balls - An Interview With Philip Jamieson from Post-Rock Band Caspian
+date: 2014-02-10 20:38:00 +0800
+author: jake
 comments: true
 categories: [Interview]
 tags: [caspian,post rock,music]
 pin: true
 image:
-	path: /gh/jakewqj/blog-static-assets@main/assets/img/blog/caspian-600400.jpg
-
-alt: band caspian interview post rock USA jake wu
+  path: /gh/jakewqj/blog-static-assets@main/assets/img/blog/caspian-600400.jpg
+  alt: band caspian interview post rock USA jake wu
 ---
 
 This interview was published firstly on musicianguide.cn right before the US post-rock band Caspian had their first China tour started in Feb, 2014.
@@ -18,10 +17,10 @@ For a Chinese verison of this interview, click [here](/posts/2014-02-10-post-roc
 
 Thanks to [Newnoise](http://en.newnoise.cn/) I had this opportunity to have an email-chat with the band's front man and guitarist, Philip Jamieson.
 
-> "We’ve been waiting to get back to China for 4 years now and really try to make an impact out there with anyone that comes out to the show. If you plan on seeing us on this tour, all we ask is that you leave your cares at the door and let go of everything for 80 minutes with us, and maybe we can all go on a journey together. " 
+> "We've been waiting to get back to China for 4 years now and really try to make an impact out there with anyone that comes out to the show. If you plan on seeing us on this tour, all we ask is that you leave your cares at the door and let go of everything for 80 minutes with us, and maybe we can all go on a journey together. " 
 — Philip from Caspian
 
-- Please receive my greetings from China. As far as I’ve known, you guys have been to China in 2010 for a music festival in Qingyuan, Guangdong Province, didn’t you? What were your ideas about China back then and what are you expecting this time for the coming tour in March?</strong>
+- Please my greetings from China. As far as I’ve known, you guys have been to China in 2010 for a music festival in Qingyuan, Guangdong Province, didn’t you? What were your ideas about China back then and what are you expecting this time for the coming tour in March?</strong>
 
 That was our first and only voyage to China as of today and we enjoyed the experience, albeit we hit some issues with organization and other logistical problems. It was a nice shot over the bow as they say and it made us want to come back and explore and see much more of the country. We are looking forward to doing exactly that next month.
 
