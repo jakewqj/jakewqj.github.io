@@ -1,6 +1,6 @@
 ---
 title: 和美国后摇Caspian 乐队的吉他手Philip Jamieson 聊聊
-tagline: ：我们是“带屌的Sigur Ros”
+tagline: 我们是“带屌的Sigur Ros”
 author: jake
 date: 2014-02-10 20:38:00 +0800
 categories: [Interview]
@@ -8,7 +8,7 @@ tags: [caspian,post rock,music]
 pin: true
 math: true
 mermaid: true
-image:
+image: 
   path: /gh/jakewqj/blog-static-assets@main/assets/img/blog/caspian-600400.jpg
   
   alt: band caspian interview post rock USA jake wu
