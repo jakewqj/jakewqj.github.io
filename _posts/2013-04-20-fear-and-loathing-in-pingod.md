@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 白日梦蓝之恐惧苹果社区
+title: 恐惧苹果社区
 date: 2013-04-20 08:13
 author: Jake Wu
 comments: true
