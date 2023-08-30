@@ -1,14 +1,15 @@
 ---
+layout: post
 title: 和美国后摇Caspian 乐队的吉他手Philip Jamieson 聊聊
 tagline: 我们是“带屌的Sigur Ros”
 author: jake
-date: 2014-02-10 20:38:00 +0800
+date: 2014-02-10 20:38
 categories: [Interview]
 tags: [caspian,post rock,music]
 pin: true
 math: true
 mermaid: true
-image: 
+image:
   path: /gh/jakewqj/blog-static-assets@main/assets/img/blog/caspian-600400.jpg
   
   alt: band caspian interview post rock USA jake wu
@@ -40,14 +41,13 @@ For English verison of this interview, click here.
 
 > 是的，我觉得是这样的。我们乐队一直希望通过音乐达到更深的层次，以此达到不同程度的成功。而要在自然而然的创作中找到这层深度，一直是我们成长历程中的目标。在《Walking Season》这张专辑中，我们有意把我们的步伐放慢，通过发散的音乐找到声音深处的谧静。一开始我们会去考虑写些什么，创作起来蹑手蹑脚；当我们把这些都抛弃，我们感受到了随之而来的“成长”与在创作中的自由。
 
-<img class=" size-full wp-image-247 aligncenter" src="https://jakewqj.files.wordpress.com/2015/06/caspian-600400.jpg" alt="CASPIAN-600400" width="600" height="400" />
 
 - 在Caspian乐队中有三把吉他。通常你们是怎么安排你们各自负责的部分的？能否用某一首歌来举例为我们的介绍一下？
 
 > 我们大多数的歌曲都来自于非常简单、基础的构想。例如“Procellous”这首歌，在一个暴风天里，我在地下室写下了歌曲开头的那段模拟吉他反复，然后拿去给了乐队听。随着歌曲架构的不断丰富，每个乐队成员都对歌曲的内容和走向有着自己的想法；当我们探索歌曲具体的变化时，每位吉他手就把他们认为合适的演奏加入进去。我们会听其他人弹的是什么，有时会玩着演奏其他人的旋律部分，看看效果如何。
 我们从来不会去制止其他吉他任何灵光一闪的演奏，那时我们的底线。老实讲，关于如何融合我们不同的演奏部分，我们之间的交流其实很少。我觉得我们之所以特别，是因为我们的三把吉他呈现出的是如此截然不同的景象，而且是如此自然，自然得无需过多的讨论。很幸运，当我们成为一个整体的时候，化学反应就这样发生了。
 
-##“带屌的Sigur Ros，这我们听到过的最出彩的一次赞赏”</em>
+##“带屌的Sigur Ros，这我们听到过的最出彩的一次赞赏”
 
 - 在一开始你们是怎么找到你们的音色的？在音色的构成上，谁给了你们最大的影响？
 > 在早期我们都很受Sigur Ros乐队的影响，显而易见。我们没有他们那样的耐性，但是同时又想制造出他们那样的音乐，这或许就是我们音乐中那些更重、更直接的音色的来源——耐性不足之余，却有着通过乐队这个单位制造空灵之音色的强烈欲望。我记得我的某位朋友在观看了我们表演“You Are The Conductor”这首歌之后，他形容这是“带屌的Sigur Ros”。那是和其他乐队相比较下我们听到过的最出彩的一次赞赏。
