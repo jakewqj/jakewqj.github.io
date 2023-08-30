@@ -13,7 +13,7 @@ image:
 
 This interview was published firstly on musicianguide.cn right before the US post-rock band Caspian had their first China tour started in Feb, 2014.
 
-For a Chinese verison of this interview, click [here](/posts/2014-02-10-post-rock-caspian-interveiw-chinese/).
+For a Chinese verison of this interview, click here.
 
 Thanks to [Newnoise](http://en.newnoise.cn/) I had this opportunity to have an email-chat with the band's front man and guitarist, Philip Jamieson.
 
