@@ -1,15 +1,19 @@
 ---
-title: 和美国后摇Caspian 乐队的吉他手Philip Jamieson 聊聊：我们是“带屌的Sigur Ros”（中文版）
+title: 和美国后摇Caspian 乐队的吉他手Philip Jamieson 聊聊
+tagline: ：我们是“带屌的Sigur Ros”
+author: jake
 date: 2014-02-10 20:38:00 +0800
-author: jakewqj
-comments: true
 categories: [Interview]
 tags: [caspian,post rock,music]
 pin: true
+math: true
+mermaid: true
 image:
   path: /gh/jakewqj/blog-static-assets@main/assets/img/blog/caspian-600400.jpg
+  
   alt: band caspian interview post rock USA jake wu
 ---
+
 For English verison of this interview, click here.
 
  “带屌的Sigur Ros”这个说法（英文原话为“Sigur Ros with balls”）绝无贬低Sigur Ros之意，笔者也绝无为Caspian乐队贴上“Sigur Ros”之标签的想法，因为这不公平；这只不过是“乐队听到过的最出彩的一次赞赏”，乐队主创兼吉他手Philip Jamieson如是说。
