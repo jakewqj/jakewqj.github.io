@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 和美国后摇Caspian 乐队的吉他手Philip Jamieson 聊聊：我们是“带屌的Sigur Ros”（中文版）
 date: 2014-02-10 20:38
 author: jakewqj
