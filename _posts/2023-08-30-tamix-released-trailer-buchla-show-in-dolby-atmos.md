@@ -7,7 +7,7 @@ tags: [synthesizer,buchla,tamiX]
 pin: true
 math: true
 mermaid: true
-publish: false
+publish: true
 ---
 
 tamiX, a Buchla endorsed musician, has just released a video trailer of her recorded live show that took place in August 24, 2023, in Beijing. According to tamiX, the show - tamiX in Atmos - Prologue, was the world first Buchla improv modular live set in Dolby Atmos. Yeah, in Dolby Atmos. 
@@ -19,5 +19,12 @@ Buchla's modular synthesizers have possessed the creative capability of surround
 ## Video
 
 {% include embed/youtube.html id='Ak2pVSgD8xM&t' %}
+Trailer - tamiX in Atmos - Prologue
 
-## About tamiX
+<iframe src="//player.bilibili.com/player.html?aid=984592625&bvid=BV1Ht4y137JY&cid=803685620&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+An Indepth Interview with Meng Qi talking about tamiX's Buchla gears
+
+## About tamiX 
+I have personally met with tamiX, aka Tang Nan, for couple times. Before I met her for the first time at the NAMM Show 2023 in California, she had been widely known as the founder of [midifan.com](www.midifan.com), the most famous website about computer music, hi-tech music and digital recording in China. Midifan and tamiX has somehow change my vision and my shallow overall understanding about electronic music and synth music - helping me to get a deeper dive into "what makes a sound". 
+
+As a professional artist of improvisational electronic live music and visual arts,  tamiX, refuses to perform with computer programs or software, specializes in unprepared visual creativity, and music performance with standalone gear to demonstrate physically natural effects as atmosphere changes likewise. 
