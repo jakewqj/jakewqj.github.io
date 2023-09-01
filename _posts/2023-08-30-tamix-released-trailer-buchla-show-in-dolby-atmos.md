@@ -1,12 +1,14 @@
 ---
-title: Chinese artist tamiX released a video trailer of the world's first Buchla concert in Dolby Atmos: tamiX in Atmos - Prologue
-author: Jake Wu
+
+title: Chinese artist tamiX released a video trailer of the world's first Buchla concert in Dolby Atmos
+author: jake
 date: 2023-08-30 12:17:00 +0800
 categories: [New Music]
 tags: [buchla,synthesizer,tamix]
-pin: false
+pin: true
 math: true
 mermaid: true
+
 ---
 
 ## Video
