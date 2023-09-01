@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Chinese artist tamiX released a video trailer of the world's first Buchla concert in Dolby Atmos: tamiX in Atmos - Prologue
 author: jake
 date: 2023-08-30 19:00:00 +0800
@@ -24,7 +25,9 @@ Trailer - tamiX in Atmos - Prologue
 <iframe src="//player.bilibili.com/player.html?aid=984592625&bvid=BV1Ht4y137JY&cid=803685620&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 An Indepth Interview with Meng Qi talking about tamiX's Buchla gears
 
+{% include embed/bilibili.html id='BV1Ht4y137JY' %}
+
 ## About tamiX 
 I have personally met with tamiX, aka Tang Nan, for couple times. Before I met her for the first time at the NAMM Show 2023 in California, she had been widely known as the founder of [midifan.com](https://www.midifan.com/), the most famous website about computer music, hi-tech music and digital recording in China. Midifan and tamiX has somehow change my vision and my shallow overall understanding about electronic music and synth music - helping me to get a deeper dive into "what makes a sound". 
 
-As a professional artist of improvisational electronic live music and visual arts,  tamiX, refuses to perform with computer programs or software, specializes in unprepared visual creativity, and music performance with standalone gear to demonstrate physically natural effects as atmosphere changes likewise. 
+As a professional artist of improvisational electronic live music and visual arts,  tamiX, refuses to perform with computer programs or software, specializes in unprepared visual creativity, and music performance with standalone gear to demonstrate physically natural effects as atmosphere changes likewise.  
