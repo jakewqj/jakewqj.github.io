@@ -1,5 +1,5 @@
 ---
-title: Donner Press Release 
+title: Donner Newsroom
 icon: fa-solid fa-bullhorn
 order: 6
 ---
@@ -7,3 +7,4 @@ order: 6
 [Donner Press Release](https://jakewqj.github.io/categories/donner-press-release/)
 
 ---
+
