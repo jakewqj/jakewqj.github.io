@@ -11,21 +11,14 @@ mermaid: true
 publish: true
 ---
 
-tamiX, a Buchla endorsed musician, has just released a video trailer of her recorded live show that took place in August 24, 2023, in Beijing. According to tamiX, the show - tamiX in Atmos - Prologue, was the world first Buchla improv modular live set in Dolby Atmos. Yeah, in Dolby Atmos. 
-
-## tamiX's gear - Buchla 200e modular system
-Buchla's modular synthesizers have possessed the creative capability of surround sound since its inception. Buchla synthesizer not only has the capacity to compose and output quadraphonic surround sound music, but it also offers the freedom to precisely control and manipulate sound positions within the quadraphonic setup. This encompassed various actions such as having notes leap, rotate, and move from distant to near within the sound field in synchronization with the rhythm. It even allowed for rotational speed adjustments to correspond with changes in pitch and timbre.
-
-
 ## Video
-
 {% include embed/youtube.html id='Ak2pVSgD8xM&t' %}
 Trailer - tamiX in Atmos - Prologue
 
-<iframe src="//player.bilibili.com/player.html?aid=984592625&bvid=BV1Ht4y137JY&cid=803685620&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-An Indepth Interview with Meng Qi talking about tamiX's Buchla gears
+tamiX, a Buchla endorsed musician, has just released a video trailer of her recorded live show that took place in August 24, 2023, in Beijing. According to tamiX, the show - tamiX in Atmos - Prologue, was the world first Buchla improv modular live set in Dolby Atmos. Yeah, in Dolby Atmos. 
 
-{% include embed/bilibili.html id='BV1Ht4y137JY' %}
+## tamiX's gear - Buchla 200e modular system
+Buchla's modular synthesizers have possessed the creative capability of surround sound since its inception. Buchla synthesizer not only has the capacity to compose and output quadraphonic surround sound music, but it also offers the freedom to precisely control and manipulate sound positions within the quadraphonic setup. This encompassed various actions such as having notes leap, rotate, and move from distant to near within the sound field in synchronization with the rhythm. It even allowed for rotational speed adjustments to correspond with changes in pitch and timbre. 
 
 ## About tamiX 
 I have personally met with tamiX, aka Tang Nan, for couple times. Before I met her for the first time at the NAMM Show 2023 in California, she had been widely known as the founder of [midifan.com](https://www.midifan.com/), the most famous website about computer music, hi-tech music and digital recording in China. Midifan and tamiX has somehow change my vision and my shallow overall understanding about electronic music and synth music - helping me to get a deeper dive into "what makes a sound". 
