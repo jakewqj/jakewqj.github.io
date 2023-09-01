@@ -12,7 +12,7 @@ mermaid: true
 ---
 
 ## Video
-{% include embed/youtube.html id='Ak2pVSgD8xM&t' %}
+{% include embed/youtube.html id='Ak2pVSgD8xM' %}
 Trailer - tamiX in Atmos - Prologue
 
 tamiX, a Buchla endorsed musician, has just released a video trailer of her recorded live show that took place in August 24, 2023, in Beijing. According to tamiX, the show - tamiX in Atmos - Prologue, was the world first Buchla improv modular live set in Dolby Atmos. Yeah, in Dolby Atmos. 
