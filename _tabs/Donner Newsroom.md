@@ -8,3 +8,6 @@ order: 6
 
 ---
 
+# Press Kit
+
+[MEDO](https://drive.google.com/drive/folders/1Vun9PUbNeTlhGiaSPAvHJytLLip3MnMf?usp=sharing)
