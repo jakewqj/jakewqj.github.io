@@ -49,14 +49,7 @@
     {% endfor %}
   </ul>
   
-  <ul class="nav flex-column flex-grow-1 w-100 ps-0">
-    <!-- home -->
-    <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
-      <a href="{{ '/' | relative_url }}" class="nav-link">
-        <i class="fa-fw fas fa-home"></i>
-        <span>{{ site.data.locales[include.lang].tabs.home | upcase }}</span>
-      </a>
-    </li>
+  <ul class="nav flex-column flex-grow-1 w-100 ps-0">    
   <li class="nav-item"> <a href="https://donnerpress.github.io/" class="nav-link"> <i class="fa-fw fa-solid fa-bullhorn"></i> <span>DONNER NEWSROOM</span> </a>
   </li>
 </ul>
