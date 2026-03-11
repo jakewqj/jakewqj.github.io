@@ -1,0 +1,41 @@
+# Jake Wu's Blog
+
+> A personal blog by Jake Wu covering music industry interviews, album reviews, Chinese indie music, live shows, and music gear.
+
+Jake Wu is a PR Manager at Donner Music and a former editor of Modern Player Magazine (Beijing). This blog features candid writing on the Chinese and global indie music scene, gear for musicians, live show coverage, and the occasional travel post.
+
+## About
+
+- [About Jake Wu](/about/): Background, bio, and contact information
+
+## Content
+
+- [All Posts](/archives/): Full archive of blog posts
+- [Categories](/categories/): Posts organized by topic
+- [Tags](/tags/): Posts organized by tag
+- [Atom Feed](/feed.xml): Machine-readable feed of all posts (Atom format)
+- [Sitemap](/sitemap.xml): Full site map for crawlers
+
+## Key Topics
+
+- Music industry interviews and profiles
+- Chinese indie music scene
+- Album reviews and listening notes
+- Live show coverage
+- Music gear (guitars, effects, equipment)
+- Music PR and the business side of music
+
+## Author
+
+- **Name:** Jake Wu (吴起捷)
+- **Role:** PR Manager, Donner Music
+- **Former:** Editor, Modern Player Magazine (Beijing)
+- **GitHub:** https://github.com/jakewqj
+- **Twitter:** https://twitter.com/wuthedude
+- **Email:** jakewqj@gmail.com
+
+## Technical
+
+- Built with Jekyll + Chirpy theme, deployed on GitHub Pages
+- Language: English (with occasional Chinese)
+- Timezone: Asia/Shanghai (UTC+8)
