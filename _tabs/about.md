@@ -5,18 +5,16 @@ order: 4
 ---
 
 ![Desktop View](/gh/jakewqj/blog-static-assets@main/assets/img/music-millenium-portland.jpg){: width="667" height="1000" .w-50 .right}
-```Music nerd. Dumpling and sticky rice lover. A bad guitar player, a good diaper sniffer. A husband, a father. I have a cat called Lychee. ```
 
-I started my career as an editor for one of the best-selling music instrument magazines in China, the `Modern Player Magazine` based in Beijing. 
+Hi, I'm Jake — a music nerd, a bad guitar player, and a pretty decent diaper sniffer. These days I play cherry ES-335 for an audience of one (my daughter), accompanied by a small army of Donner synthesizers she's slowly learning to destroy.
 
-I have become an experienced professional in music industry with a demonstrated history of working in the music and ecommerce industry for 10 years. I focus on 
-- good content 
-- good marketing strategies 
-- promotion for Chinese indie music.
+This blog is where I write about the things I can't stop thinking about: Chinese indie music that deserves more ears, live shows worth traveling for, gear that's fun to chase, and occasional dispatches from a career spent inside the music industry.
 
-During my previous venture in e-commerce, I also established strong connections with reputable Chinese suppliers specializing in consumer electronics, lighting fixtures, and musical instruments.
+Chinese indie has been the throughline of everything I've done. I got my start as an editor at `Modern Player Magazine`, one of China's best-selling music instrument publications, back when print still felt important. That job gave me a front-row seat to the scene as it was finding its footing — the DIY venues, the scrappy labels, the bands that were building something real with almost nothing. I've been paying attention ever since.
 
-I am now the PR manager at [Donner Music](https://www.donnermusic.com). Unless otherwise noted, the views expressed on these pages are mine alone and not those of my employer. 
+After a decade moving through music media, e-commerce, and artist relations, I now work as PR Manager at [Donner Music](https://www.donnermusic.com), helping independent musicians get their hands on gear that doesn't compromise. The views here are mine alone, not my employer's.
 
-Thanks for stopping by. - Jake Wu
+If you've landed here because you're curious about what's happening in Chinese indie music, or you just want to read honest takes on shows and records — welcome. Stick around.
+
+— Jake Wu
 

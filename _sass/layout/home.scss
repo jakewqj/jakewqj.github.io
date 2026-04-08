@@ -36,6 +36,17 @@
         @extend %img-radius;
       }
     }
+.preview-img:not(.no-bg) img.lazyloaded {
+  background: none !important;
+}
+
+.preview-img img {
+  transition: none !important;
+}
+
+img.lazyloaded {
+  animation: none !important;
+}
 
     .card-body {
       min-height: 10.5rem;

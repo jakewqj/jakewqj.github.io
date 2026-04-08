@@ -22,9 +22,11 @@ title: Jake Wu # the main title
 
 tagline: A blog by Jake Wu. # it will display as the sub-title
 
-description: >- 
-  
-  
+description: >-
+  A personal blog by Jake Wu covering music industry interviews, album reviews,
+  Chinese indie music, live shows, and music gear. Jake is a PR Manager at Donner Music
+  and former editor of Modern Player Magazine.
+
 
 # fill in the protocol & hostname for your site, e.g., 'https://jakewqj.github.io'
 url: "https://jakewqj.github.io"
@@ -33,7 +35,7 @@ github:
   username: jakewqj # change to your github username
 
 twitter:
-  wuthedude: wuthedude # change to your twitter username
+  username: wuthedude # change to your twitter username
 
 social:
   # Change to your full name.
