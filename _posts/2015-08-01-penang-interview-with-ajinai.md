@@ -10,7 +10,7 @@ tags: [ajinai,mogonlia,world music,chinese music,hugejiletu]
 math: true
 mermaid: true
 image:
-  path: /gh/jakewqj/blog-static-assets@main/assets/img/media-export-wp/2015/05/ajinai-banner.jpg
+  path: /jakewqj/blog-static-assets/main/assets/img/media-export-wp/2015/05/ajinai-banner.jpg
   
   alt: Ajinai at 2015 Penang World Music Festival
 
@@ -22,7 +22,7 @@ image:
 
 <!--more-->
 
-![Desktop View](/gh/jakewqj/blog-static-assets@main/assets/img/blog/Ajinai%202015%20hugjilto.JPG){: width="972" height="589" }
+![Desktop View](/jakewqj/blog-static-assets/main/assets/img/blog/Ajinai%202015%20hugjilto.JPG){: width="972" height="589" }
 _Full screen width and center alignment_
 
 <strong>槟城 - 他乡的故乡</strong>

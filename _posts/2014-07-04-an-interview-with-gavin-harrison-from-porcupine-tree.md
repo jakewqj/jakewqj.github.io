@@ -9,7 +9,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: /gh/jakewqj/blog-static-assets@main/assets/img/blog/gavin-harrison-porcupine-tree-zildjian-beijing.jpg
+  path: /jakewqj/blog-static-assets/main/assets/img/blog/gavin-harrison-porcupine-tree-zildjian-beijing.jpg
   
   alt: gavin harrison king crimson porcupine tree
 ---

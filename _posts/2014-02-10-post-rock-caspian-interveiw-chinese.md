@@ -10,7 +10,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: /gh/jakewqj/blog-static-assets@main/assets/img/blog/caspian-600400.jpg
+  path: /jakewqj/blog-static-assets/main/assets/img/blog/caspian-600400.jpg
   
   alt: band caspian interview post rock USA jake wu
 ---

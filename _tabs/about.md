@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Desktop View](/gh/jakewqj/blog-static-assets@main/assets/img/music-millenium-portland.jpg){: width="667" height="1000" .w-50 .right}
+![Desktop View](/jakewqj/blog-static-assets/main/assets/img/music-millenium-portland.jpg){: width="667" height="1000" .w-50 .right}
 
 Hi, I'm Jake. I try to collect things and thoughts with this blog. 
 

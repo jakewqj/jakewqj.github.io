@@ -77,10 +77,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://cdn.jsdelivr.net"
+img_cdn: "https://raw.githubusercontent.com"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/gh/jakewqj/blog-static-assets@main/assets/img/favicon_avatar/GIITPROPIC-300.jpg"
+avatar: "/jakewqj/blog-static-assets/main/assets/img/favicon_avatar/GIITPROPIC-300.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true

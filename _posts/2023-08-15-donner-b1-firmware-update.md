@@ -9,7 +9,7 @@ pin: false
 math: true
 mermaid: true
 image:
-  path: /gh/jakewqj/blog-static-assets@main/assets/img/pressroom/B1_Firmware.png
+  path: /jakewqj/blog-static-assets/main/assets/img/pressroom/B1_Firmware.png
   
   alt: donner b1 bass synthesizer
 ---

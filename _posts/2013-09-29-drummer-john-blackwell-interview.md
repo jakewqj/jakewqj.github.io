@@ -11,7 +11,7 @@ tags:
   - zildjian
 pin: false
 image:
-  path: /gh/jakewqj/blog-static-assets@main/assets/img/blog/john-blackwell-jr-jakewu.jpg
+  path: /jakewqj/blog-static-assets/main/assets/img/blog/john-blackwell-jr-jakewu.jpg
 ---
 
 ```在离开北京前的最后一次采访，许巍巡演鼓手，Prince 的鼓手，John Blackwell Jr.```

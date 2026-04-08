@@ -9,7 +9,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: /gh/jakewqj/blog-static-assets@main/assets/img/blog/newmusic/hugjilto-returning-to-childhood.jpg
+  path: /jakewqj/blog-static-assets/main/assets/img/blog/newmusic/hugjilto-returning-to-childhood.jpg
   
   alt: Hugjilto 2023 New Album - Returning to Childhood
 ---
