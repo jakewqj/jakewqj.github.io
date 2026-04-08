@@ -1,7 +1,7 @@
 ---
 title: Some Emerging Hardcore Bands in Guangzhou
 author: jake
-date: 2026-04-08 16:00:00 +0800
+date: 2026-04-08 10:00:00 +0800
 categories:
   - Music
 tags:
