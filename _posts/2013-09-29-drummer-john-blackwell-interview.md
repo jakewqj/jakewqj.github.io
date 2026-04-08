@@ -3,12 +3,15 @@ title: Interview with Drummer John Blackwell Jr.
 date: 2013-09-29 01:22
 author: jake
 comments: true
-categories: [Interview]
-tags: [现代乐手 modern player mag,prince,zildjian]
-pin: true
+categories:
+  - Interview
+tags:
+  - 现代乐手 modern player mag
+  - prince
+  - zildjian
+pin: false
 image:
   path: /gh/jakewqj/blog-static-assets@main/assets/img/blog/john-blackwell-jr-jakewu.jpg
-
 ---
 
 ```在离开北京前的最后一次采访，许巍巡演鼓手，Prince 的鼓手，John Blackwell Jr.```

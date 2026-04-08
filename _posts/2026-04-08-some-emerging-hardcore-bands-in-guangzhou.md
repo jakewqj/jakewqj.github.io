@@ -1,14 +1,14 @@
 ---
 title: Some Emerging Hardcore Bands in Guangzhou
 author: jake
-date: 2026-04-08 20:00:00 +0800
+date: 2026-04-08 16:00:00 +0800
 categories:
   - Music
 tags:
   - hardcore
   - guangzhou
   - indiechina
-pin: false
+pin: true
 ---
 
 Guangzhou has quietly become one of China's most active cities for hardcore music. The Greater Bay Area (GBA) scene — spanning Guangzhou, Shenzhen, and surrounding cities — has grown a tight-knit community of bands, promoters, and kids who show up week after week to sweat through basement-level shows.
