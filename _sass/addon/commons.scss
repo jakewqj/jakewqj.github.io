@@ -523,8 +523,8 @@ i {
     background: var(--shimmer-bg);
     height: 100%;
     width: 100%;
-    -webkit-animation: shimmer 1s infinite;
-    animation: shimmer 1s infinite;
+    -webkit-animation: shimmer 1.5s ease-in-out 1 forwards;
+    animation: shimmer 1.5s ease-in-out 1 forwards;
   }
 
   @-webkit-keyframes shimmer {
