@@ -69,7 +69,7 @@ For English verison of this interview, click here.
 
 我也很老套，总幻想着所有人第一次听着我们的音乐的时候，有一台黑胶唱机，手举着一杯冰凉的啤酒，和音乐一同细细品味；不过我知道许多新的歌迷总是从最方便的途径接触到了我们的音乐，对此我当然也感到很呵呵。
 
-<a href="http://jakewqj.files.wordpress.com/2015/06/caspian-on-stage.jpg"><img class="aligncenter  wp-image-242" src="http://jakewqj.files.wordpress.com/2015/06/caspian-on-stage.jpg" alt="caspian on stage" width="527" height="351" /></a>
+<a href="https://jakewqj.files.wordpress.com/2015/06/caspian-on-stage.jpg"><img class="aligncenter  wp-image-242" src="https://jakewqj.files.wordpress.com/2015/06/caspian-on-stage.jpg" alt="caspian on stage" width="527" height="351" /></a>
 
 - 那么你对众筹的观点又是怎样的呢？（在下笔之时，在Kickstarter.com上发起音乐类项目已有27,416个，成功率达到54%。）
 > 我并不“排斥”任何像Kickstarter这样的网站，不过我觉得对于音乐人和乐队来说，如果你真的要走众筹的道路，你的理由必须得十足地充分与强烈。除非万不得已、走投无路，例如我们的设备被偷了、被抢劫了之类的让人绝望的事情，否则我是不会把Caspian放到那个位置上的。我觉得个人努力是非常重要的，如果仅通过众筹就让一些音乐人觉得有资格去做某件事，那么我觉得这会助长他们的惰性，这样我是完全不能接受的。

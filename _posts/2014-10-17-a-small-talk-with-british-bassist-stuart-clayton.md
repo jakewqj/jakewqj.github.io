@@ -7,8 +7,7 @@ comments: true
 categories: [Interview]
 tags: [bass]
 ---
-<a href="http://www.u4g.co.uk/images/bandmembersnew_04.jpg"><img class="alignleft" src="http://dn-musicianguide.qbox.me/wp-content/uploads/2013/10/bandmembersnew_04.jpg" alt="bandmembersnew_04" width="263" height="212" /></a>
-<div>
+<!-- Image removed: original CDN source no longer available -->
 
 2013年十月，我在音乐人攻略的微博上发布了一段视频，视频中的Stuart Clayton 把Metallica 乐队的经典名曲“Nothing Else Matters” 重新用一把四弦贝司演绎了出来。意外地获得了超过500的转发次数。在第二天，我给Stuart发去了邮件，告诉了他这件事，并通过邮件做了个采访。
 
@@ -118,9 +117,3 @@ SC: I learnt a lot of technique early on by learning songs, transcribing and imi
 
 SC: Very little I'm afraid! I've had lots of people from China following me on YouTube recently and I'm really grateful for that!
 
---------------------------------------ad-------------------------------
-
-I sell on Tictal
-<a href="//tictail.com/embed/Vks/product/kadQ">//tictail.com/embed/Vks/product/kadQ</a>
-
-</div>

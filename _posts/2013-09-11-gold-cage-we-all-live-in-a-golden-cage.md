@@ -13,7 +13,7 @@ tags:
 pin: false
 image:
   path: /jakewqj/blog-static-assets/main/assets/img/blog/golden-cage-guangzhou-band.jpg
-alt: golden cage interview guangzhou underground indie rock band music
+  alt: golden cage interview guangzhou underground indie rock band music
 ---
 香港曾经有一支独立乐队叫False Alarm，他们有一首歌叫“Golden Cage”，歌词里表达了城市人的光鲜外表下却处处都有着不可避免的束缚，现代的人们看似有着很多的选择，殊不知却渐渐被困在一个金色的牢笼里。广州乐队Golden Cage 的取名灵感便是来自于此。
 
@@ -70,18 +70,14 @@ Golden Cage乐队从十年前取名自香港乐队False Alarm 的一曲“Golden
 
 这把52’是陈翔和阿坤一起从香港购回，Golden Cage 两张专辑的吉他部分都由她完成。吉他效果器链上，陈翔的设置也并不复杂，用TC Sparks 做激励，接Lovepedal过载单块，这便是乐队吉他音色的主要构成。之后有一个BOSS LS-2 线路切换器，线路一接入音箱，线路二连接了TC调音表和空间类效果器。具体可点击查看大图：
 
-[gallery ids="509,510" type="rectangular"]
-
-贝司手阿坤用的是一把Fender P/J 混合型贝司，同时，效果器方面是EBS Multicomp压缩&gt;MXR EQ均衡&gt; SansAmp Bass Driver 前级DI效果器。阿坤说他最喜爱的贝司手是Flea。
-
-[gallery ids="508,507" type="rectangular"]
+贝司手阿坤用的是一把Fender P/J 混合型贝司，同时，效果器方面是EBS Multicomp压缩 > MXR EQ均衡 > SansAmp Bass Driver 前级DI效果器。阿坤说他最喜爱的贝司手是Flea。
 
 &nbsp;
 
 Ken 的鼓设置则更显简洁，Gretsch 地鼓、军鼓、嗵鼓各一个，踩镲、吊镲、炸镲各一个。有限的设备往往更容易让人创造出无限的可能性。
 
 <img class="alignnone size-full wp-image-506" src="https://jakewqj.files.wordpress.com/2017/02/e9bc93.jpg" alt="%e9%bc%93" width="800" height="533" />
-<pre><strong>乐队生存与推广</strong></pre>
+## 乐队生存与推广
 在去年，音乐人攻略网站发布了一份名为<a href="http://musicianguide.cn/heavy-the-big-run-of-the-2011-music-of-the-survival-status-of-research/?utm_source=mg&amp;utm_medium=selectedbanner&amp;utm_campaign=mg">《2011音乐人生存现状调研》</a>的调查报告，其中几个让人关注的数据真的是说多了都是泪：受访音乐人中超过70%是完全独立；约55%的受访音乐人每月从音乐中获取的收入低于500元，其中36%是几乎没有收入的。
 
 许多像Golden Cage 这样的独立音乐人当初之所以玩音乐，出发点很简单，就是喜欢。但是如果你要让他们把这当成一门生计，估计没有多少人能有这样的勇气；事实上，就算有这样的勇气，留给他们的路也并不多。
