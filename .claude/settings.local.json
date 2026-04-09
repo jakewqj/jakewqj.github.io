@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:jakewqj.github.io)",
+      "Bash(curl -sI \"https://cdn.jsdelivr.net/gh/jakewqj/blog-static-assets@main/assets/img/blog/newmusic/hugjilto-returning-to-childhood.jpg\")",
+      "Bash(curl -sI \"https://raw.githubusercontent.com/jakewqj/blog-static-assets/main/assets/img/blog/newmusic/hugjilto-returning-to-childhood.jpg\")"
+    ]
+  }
+}

@@ -27,9 +27,12 @@ Over three years they have released two EPs — each one pushing further into mo
 
 ## Goodbye, Old Love
 
-A side project born out of necessity. When your other bands are between shows, you fill the gap — or as they put it, it is like filling the hole left after a breakup. Members come from established Guangzhou acts including 蟑螂恶霸 , Shoot the Gun, 无高潮 (Nein Or Gas Mus), and Bennu is a Heron.
+GBOL is a side project born out of necessity. When your other bands are between shows, you fill the gap — or as they put it, it is like filling the hole left after a breakup. Members come from established Guangzhou acts including 蟑螂恶霸 , Shoot the Gun, 无高潮 (Nein Or Gas Mus), and Bennu is a Heron. 
 
-The sound sits in that sweet spot where melodic hardcore meets shoegaze. Think Title Fight's *Hyperview* era, Modern Color, Nothing, and Tiny Moving Parts. Loud, layered, and surprisingly catchy beneath the fuzz.
+And more for your information, I have to tell you that this band might actually formed internally in Donner's hq in Guangzhou - as all members were and are somehow connected closely to Donner. The guitarist Chicong who is also the front man of Nein Or Gas Mus, is sitting right next to me when we are in the office now. The drummer Chickfoot builds the e-drums kits for Donner and the vocal Cloud was the girl introduced me to Donner 4 years ago. 
+
+I sold my ES-335 in cherry to Liam, the other guitarist and it has become the major axe for the band. The sound sits in that sweet spot where melodic hardcore meets shoegaze. Think Title Fight's *Hyperview* era, Modern Color, Nothing, and Tiny Moving Parts. Loud, layered, and surprisingly catchy beneath the fuzz. 
+
 
 ## XENO (異種)
 
