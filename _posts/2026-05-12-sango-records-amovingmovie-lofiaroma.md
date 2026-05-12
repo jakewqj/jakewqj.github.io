@@ -13,6 +13,8 @@ tags:
   - indiechina
   - bandcamp
 pin: false
+image:
+  path: https://f4.bcbits.com/img/a3268880341_10.jpg
 ---
 
 Sango Records, the Wuhan/Kyoto-based DIY label, has released *旧日成象 LofiaromA* (catalog SANGO-022), the latest album from AmovingmoviE — the solo project of Zhu Hongru (朱洪儒).
