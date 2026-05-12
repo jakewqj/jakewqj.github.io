@@ -6,13 +6,13 @@ categories: [New Music]
 tags: [thruoutin, field-recording, experimental, zoomin-night, bandcamp, ambient]
 pin: false
 image:
-  path: /assets/img/thruoutin-tchefuncte-soundmap.jpg
+  path: /jakewqj/jakewqj.github.io/master/assets/img/thruoutin-tchefuncte-soundmap.jpg
   alt: thruoutin - Tchefuncte Soundmap 切丰特河声音地图
 ---
 
 Beijing-based American electronic producer and multi-instrumentalist **thruoutin** (Brad M. Seippel) has just released *Tchefuncte Soundmap*《切丰特河声音地图》, out now on [Bandcamp](https://thruoutin.bandcamp.com/album/thruoutin-tchefuncte-soundmap).
 
-![Album cover](/assets/img/thruoutin-tchefuncte-soundmap.jpg)
+![Album cover](/jakewqj/jakewqj.github.io/master/assets/img/thruoutin-tchefuncte-soundmap.jpg)
 
 Tchefuncte Soundmap arrives as an 11-track abridged cassette edition of the original 27-track release, tracing a sonic journey along Louisiana's Tchefuncte River from north to south like a slow-moving boat. Composed of single-take field recordings, the work employs a variety of microphone placement techniques to present layered, multi-perspective sound environments. Rather than presenting "pure" environmental documentation, it constructs an intentionally "unnatural" listening experience, where simultaneous sonic viewpoints merge into something immersive.
 
