@@ -24,6 +24,8 @@ Three tracks, recorded June 14, 2025 at The Wall in Taipei. The set pulls from D
 
 ![Live Evil - Dope Purple & Kawabata Makoto](https://f4.bcbits.com/img/a0376228279_10.jpg)
 
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1753110575/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless></iframe>
+
 ## The Backstory
 
 Kozma Liu, Dope Purple's guitarist and vocalist, wrote the Bandcamp liner notes himself. They deserve quoting at length:

@@ -22,6 +22,8 @@ Dull is a Southern Chinese band working in the space where sludge metal, post-ha
 
 ![History, Body, State - Dull](https://f4.bcbits.com/img/a2659764131_10.jpg)
 
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4117282731/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless></iframe>
+
 ## The Concept
 
 The album's Bandcamp description frames it plainly: body politics tangled with national identity. "Bedchamber secrets of the Qing linger into every now unreachable by syntax and rhetoric. History fractures where stray dogs tear at each other." The language is dense, taxonomic, almost clinical — but the music itself is anything but. It sounds like what it describes: something suspended, something that cannot quite be named, let alone resolved.
