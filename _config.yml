@@ -15,6 +15,10 @@ lang: en
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Shanghai
 
+# Publish posts with future dates (needed because GitHub Actions runs on UTC,
+# causing +0800 posts to appear as future during build)
+future: true
+
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
