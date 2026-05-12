@@ -19,6 +19,8 @@ Sango Records, the Wuhan/Kyoto-based DIY label, has released *旧日成象 Lofia
 
 Six tracks, 17 minutes. Written, arranged, mixed, and recorded by Zhu alone in his bedroom studio (@AmovingstudiO). The album comes in two formats: digital (Bandcamp, ¥600 JPY) and a limited cassette run of 150 copies with an elephant-shaped sleeve.
 
+![旧日成象 LofiaromA - AmovingmoviE](https://f4.bcbits.com/img/a3268880341_10.jpg)
+
 ## What It Sounds Like
 
 Zhu calls it bedroom pop, and the tag fits — but the album leans further into dream pop, slowcore, and shoegaze than that label usually implies. Guitars are washed out, vocals sit low in the mix, and the whole thing moves at a pace that feels unhurried without ever dragging.
