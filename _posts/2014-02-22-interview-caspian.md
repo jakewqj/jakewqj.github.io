@@ -5,7 +5,7 @@ author: jake
 comments: true
 categories: [Interview]
 tags: [caspian,post rock,music]
-pin: true
+pin: false
 image:
   path: /jakewqj/blog-static-assets/main/assets/img/blog/caspian-600400.jpg
   alt: band caspian interview post rock USA jake wu

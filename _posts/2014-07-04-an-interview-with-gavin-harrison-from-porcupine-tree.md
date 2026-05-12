@@ -5,7 +5,7 @@ author: jake
 date: 2014-07-04 19:00:00 +0800
 categories: [Interview]
 tags: [gavine harrison,drummer,zildjian,porcupine tree]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

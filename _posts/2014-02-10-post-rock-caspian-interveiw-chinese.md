@@ -6,7 +6,7 @@ author: jake
 date: 2014-02-10 20:38
 categories: [Interview]
 tags: [caspian,post rock,music]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:

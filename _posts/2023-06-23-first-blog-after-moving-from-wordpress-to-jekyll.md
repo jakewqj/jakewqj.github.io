@@ -5,7 +5,7 @@ date: 2023-06-23 12:17:00 +0800
 categories: [Blogging]
 tags: [writing,jekyll,github,coding]
 render_with_liquid: false
-pin: true
+pin: false
 ---
 
 Today, one day before my 35th birthday, I've decided to move my blog from Wordpress to GitHub Page. Even though I don't post alot in recent 2 years but I do consider it's really cool building this blog with [Jekyll and GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages), as well as writing blog post with Markdown. 
