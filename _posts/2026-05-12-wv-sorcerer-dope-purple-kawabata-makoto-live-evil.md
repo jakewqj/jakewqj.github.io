@@ -1,7 +1,7 @@
 ---
 title: "WV Sorcerer Productions Announces Live Evil by Dope Purple & Kawabata Makoto"
 author: jake
-date: 2026-05-12 12:00:00 +0800
+date: 2026-05-12 08:00:00 +0800
 categories:
   - New Music
 tags:
