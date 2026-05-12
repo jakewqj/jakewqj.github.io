@@ -20,6 +20,8 @@ SloomWeep Productions has released *History, Body, State*, the latest from Shenz
 
 Dull is a Southern Chinese band working in the space where sludge metal, post-hardcore, and screamo overlap. On their previous release *三百層的大樓 (A 300-Story Mansion)*, they showed a willingness to let ugliness breathe. Here they push further: the sound is damp, tense, claustrophobic. Guitars don't roar so much as seep. The rhythm section lurches. Wen Haifan's vocals move between guttural howl and spoken collapse.
 
+![History, Body, State - Dull](https://f4.bcbits.com/img/a2659764131_10.jpg)
+
 ## The Concept
 
 The album's Bandcamp description frames it plainly: body politics tangled with national identity. "Bedchamber secrets of the Qing linger into every now unreachable by syntax and rhetoric. History fractures where stray dogs tear at each other." The language is dense, taxonomic, almost clinical — but the music itself is anything but. It sounds like what it describes: something suspended, something that cannot quite be named, let alone resolved.

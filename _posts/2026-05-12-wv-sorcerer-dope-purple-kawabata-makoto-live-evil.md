@@ -22,6 +22,8 @@ WV Sorcerer Productions 巫唱片, the France/China-based avant-garde label, has
 
 Three tracks, recorded June 14, 2025 at The Wall in Taipei. The set pulls from Dope Purple's existing catalog — mutated, expanded, shoved through sheets of Kawabata's guitar — and includes a previously unreleased piece, "LxOxVxE."
 
+![Live Evil - Dope Purple & Kawabata Makoto](https://f4.bcbits.com/img/a0376228279_10.jpg)
+
 ## The Backstory
 
 Kozma Liu, Dope Purple's guitarist and vocalist, wrote the Bandcamp liner notes himself. They deserve quoting at length:
