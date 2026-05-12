@@ -1,7 +1,7 @@
 ---
 title: "SloomWeep Productions Releases Dull's History, Body, State"
 author: jake
-date: 2026-05-12 23:45:00 +0800
+date: 2026-05-12 14:00:00 +0800
 categories:
   - New Music
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Sango Records Releases AmovingmoviE's New Album 旧日成象 LofiaromA"
 author: jake
-date: 2026-05-12 23:00:00 +0800
+date: 2026-05-12 10:00:00 +0800
 categories:
   - New Music
 tags:
