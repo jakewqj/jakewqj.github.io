@@ -23,4 +23,6 @@ image:
 
 Zaliva-D 的音乐一直在仪式感和电子噪音之间找自己的位置。这次《好奇 Curiosity》显然不是在追求"好听"，而是那种你不确定自己在听什么、但又不想停下来的状态。
 
-[Bandcamp 收听 / 购买](https://svbkvlt.bandcamp.com/album/curiosity)
+<div class="bandcamp-embed">
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/album=1958025663/size=large/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://svbkvlt.bandcamp.com/album/curiosity">好奇 Curiosity by Zaliva-D</a></iframe>
+</div>

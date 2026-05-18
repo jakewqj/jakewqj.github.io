@@ -19,4 +19,6 @@ image:
 
 整张 EP 不到半小时，数字版 £6。如果你想了解中国独立电子场景目前在俱乐部方向走到了哪里，这是一个很精准的入口。
 
-[Bandcamp 收听 / 购买](https://svbkvlt.bandcamp.com/album/wriggle)
+<div class="bandcamp-embed">
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/album=1691103399/size=large/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://svbkvlt.bandcamp.com/album/wriggle">Wriggle by Gooooose</a></iframe>
+</div>

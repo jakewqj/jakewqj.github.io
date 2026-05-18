@@ -21,4 +21,6 @@ image:
 
 物理发行做得也认真：透明蓝胶第二版限量 150 张（预购中，6 月底发货），樱花粉胶 + Bonus CD 的首版 150 张已售罄。Bandcamp 评论区有一条中文留言简洁到位："作为一个中国人，听到同胞有这么好的作品，眼泪也不由得流了下来。"
 
-[Bandcamp 收听 / 购买](https://deadtreescn.bandcamp.com/album/new-world)
+<div class="bandcamp-embed">
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/v=2/album=400149294/size=large/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://deadtreescn.bandcamp.com/album/new-world">New World by DEADTREES</a></iframe>
+</div>
