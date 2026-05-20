@@ -22,14 +22,13 @@ future: true
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jake Wu # the main title
+title: China Indie Music # the main title
 
-tagline: A blog by Jake Wu. # it will display as the sub-title
+tagline: Chinese independent music news, shows, and wiki. # it will display as the sub-title
 
 description: >-
-  A personal blog by Jake Wu covering music industry interviews, album reviews,
-  Chinese indie music, live shows, and music gear. Jake is a PR Manager at Donner Music
-  and former editor of Modern Player Magazine.
+  Chinese indie music news and wiki covering new releases, live shows,
+  labels, bands, and venues. Curated by Jake Wu.
 
 
 # fill in the protocol & hostname for your site, e.g., 'https://jakewqj.github.io'
@@ -139,6 +138,18 @@ collections:
   tabs:
     output: true
     sort_by: order
+  shows:
+    output: true
+    permalink: /shows/:slug/
+  labels:
+    output: true
+    permalink: /wiki/labels/:slug/
+  bands:
+    output: true
+    permalink: /wiki/bands/:slug/
+  venues:
+    output: true
+    permalink: /wiki/venues/:slug/
 
 defaults:
   - scope:
@@ -161,6 +172,26 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: ""
+      type: shows
+    values:
+      layout: show
+  - scope:
+      path: ""
+      type: labels
+    values:
+      layout: wiki-item
+  - scope:
+      path: ""
+      type: bands
+    values:
+      layout: wiki-item
+  - scope:
+      path: ""
+      type: venues
+    values:
+      layout: wiki-item
   - scope:
       path: assets/img/favicons
     values:

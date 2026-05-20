@@ -1,0 +1,90 @@
+---
+layout: page
+---
+
+{% include lang.html %}
+
+<h1 class="dynamic-title">Search</h1>
+
+<div class="search-wrapper mb-5">
+  <div id="search" class="search-input-group">
+    <input
+      id="search-input"
+      type="search"
+      class="form-control form-control-lg"
+      placeholder="Search across all content..."
+      autocomplete="off"
+      autofocus
+    />
+  </div>
+  <div id="search-results" class="mt-4"></div>
+  <div id="search-loading" class="text-center py-5 d-none">
+    <div class="spinner-border text-primary" role="status">
+      <span class="visually-hidden">Loading...</span>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Pagefind search integration — falls back gracefully if Pagefind not loaded
+  (function() {
+    var input = document.getElementById('search-input');
+    var results = document.getElementById('search-results');
+    var loading = document.getElementById('search-loading');
+    var debounceTimer;
+
+    if (!input || !results) return;
+
+    // Try Pagefind first, fall back to browser text search
+    function doSearch(query) {
+      if (!query || query.length < 2) {
+        results.innerHTML = '';
+        return;
+      }
+
+      if (typeof window.pagefind !== 'undefined') {
+        loading.classList.remove('d-none');
+        window.pagefind.search(query).then(function(search) {
+          loading.classList.add('d-none');
+          if (!search || !search.results.length) {
+            results.innerHTML = '<div class="text-center py-4 text-muted"><p>No results found for "<strong>' + query + '</strong>"</p><p class="small">Try different keywords or browse the wiki sections.</p></div>';
+            return;
+          }
+          var html = '<p class="text-muted mb-3">Found ' + search.results.length + ' result(s)</p>';
+          search.results.slice(0, 20).forEach(function(r) {
+            r.data().then(function(d) {
+              html += '<div class="card mb-3"><div class="card-body">' +
+                '<h5 class="card-title"><a href="' + d.url + '">' + (d.meta.title || d.url) + '</a></h5>' +
+                '<p class="card-text small text-muted">' + (d.excerpt || '') + '</p>' +
+                '</div></div>';
+              results.innerHTML = html;
+            });
+          });
+        }).catch(function() {
+          loading.classList.add('d-none');
+          results.innerHTML = '<div class="text-center py-4 text-muted"><p>Search is unavailable right now.</p></div>';
+        });
+      } else {
+        // Fallback: use DuckDuckGo site search
+        results.innerHTML = '<div class="text-center py-4">' +
+          '<p class="text-muted">Search via external engine:</p>' +
+          '<a href="https://duckduckgo.com/?q=site%3Ajakewqj.github.io+' + encodeURIComponent(query) + '" target="_blank" class="btn btn-outline-primary">' +
+          '<i class="fas fa-search"></i> Search "' + query + '" on this site</a>' +
+          '</div>';
+      }
+    }
+
+    input.addEventListener('input', function() {
+      clearTimeout(debounceTimer);
+      var q = input.value.trim();
+      debounceTimer = setTimeout(function() { doSearch(q); }, 300);
+    });
+
+    input.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') {
+        clearTimeout(debounceTimer);
+        doSearch(input.value.trim());
+      }
+    });
+  })();
+</script>

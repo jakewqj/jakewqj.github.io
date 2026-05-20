@@ -1,0 +1,106 @@
+---
+layout: default
+---
+
+{% include lang.html %}
+
+{% assign collection_name = page.collection_name | default: "bands" %}
+{% assign items = site[collection_name] %}
+
+<div class="row mb-5">
+  <div id="core-wrapper" class="col-12 col-lg-11 col-xl-9 pe-xl-4">
+    <div class="px-1 px-md-2">
+      <h1 class="dynamic-title">{{ page.title }}</h1>
+
+      {% if page.description %}
+        <p class="text-muted">{{ page.description }}</p>
+      {% endif %}
+
+      <!-- Filter by city -->
+      {% assign cities = "" | split: "" %}
+      {% for item in items %}
+        {% if item.city %}
+          {% assign cities = cities | push: item.city %}
+        {% endif %}
+      {% endfor %}
+      {% assign cities = cities | uniq | sort %}
+
+      <div class="wiki-filters mb-4">
+        <div class="btn-group flex-wrap" role="group">
+          <a href="?city=" class="btn btn-sm btn-outline-secondary active filter-btn" data-filter="">All</a>
+          {% for city in cities %}
+            <a href="?city={{ city | url_encode }}" class="btn btn-sm btn-outline-secondary filter-btn" data-filter="{{ city }}">{{ city }}</a>
+          {% endfor %}
+        </div>
+      </div>
+
+      <!-- Items grid -->
+      <div class="wiki-grid">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3">
+          {% for item in items %}
+            <div class="col wiki-item" data-city="{{ item.city | default: '' }}">
+              <div class="card h-100">
+                <div class="card-body">
+                  <h5 class="card-title">
+                    <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                  </h5>
+                  {% if item.name_en %}
+                    <p class="card-subtitle mb-2 text-muted small">{{ item.name_en }}</p>
+                  {% endif %}
+                  <div class="mb-2">
+                    {% if item.city %}
+                      <span class="badge bg-light text-dark me-1"><i class="fas fa-map-marker-alt"></i> {{ item.city }}</span>
+                    {% endif %}
+                    {% if item.genre %}
+                      {% for g in item.genre limit:2 %}
+                        <span class="badge bg-secondary me-1">{{ g }}</span>
+                      {% endfor %}
+                    {% endif %}
+                    {% if item.tags %}
+                      {% for t in item.tags limit:2 %}
+                        <span class="badge bg-light text-dark me-1">{{ t }}</span>
+                      {% endfor %}
+                    {% endif %}
+                  </div>
+                  {% if item.bio %}
+                    <p class="card-text small text-muted">{{ item.bio | truncate: 100 }}</p>
+                  {% else %}
+                    <p class="card-text small text-muted">{{ item.content | strip_html | truncate: 100 }}</p>
+                  {% endif %}
+                </div>
+                {% if item.links %}
+                <div class="card-footer bg-transparent">
+                  {% for link in item.links %}
+                    {% if link[1] and link[1] != "" %}
+                      <a href="{{ link[1] }}" class="btn btn-sm btn-link text-decoration-none" target="_blank" rel="noopener">
+                        {% if link[0] == 'bandcamp' %}<i class="fab fa-bandcamp"></i>
+                        {% elsif link[0] == 'website' %}<i class="fas fa-globe"></i>
+                        {% else %}{{ link[0] }}
+                        {% endif %}
+                      </a>
+                    {% endif %}
+                  {% endfor %}
+                </div>
+                {% endif %}
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+
+      {% if items.size == 0 %}
+        <div class="text-center py-5 text-muted">
+          <p>No entries yet. Check back soon.</p>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+
+  <!-- panel -->
+  <div id="panel-wrapper" class="col-xl-3 ps-2 text-muted">
+    <div class="access">
+      {% include_cached update-list.html lang=lang %}
+      {% include_cached trending-tags.html lang=lang %}
+    </div>
+  </div>
+</div>

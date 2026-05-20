@@ -1,0 +1,121 @@
+---
+layout: page
+refactor: true
+---
+
+{% include lang.html %}
+
+<h1 data-toc-skip>{{ page.title }}</h1>
+
+{% if page.name_en %}
+<p class="text-muted">{{ page.name_en }}</p>
+{% endif %}
+
+<div class="wiki-meta mb-4">
+  <div class="row g-3">
+    {% if page.city %}
+    <div class="col-auto">
+      <span class="badge bg-light text-dark">
+        <i class="fas fa-map-marker-alt"></i> {{ page.city }}
+      </span>
+    </div>
+    {% endif %}
+
+    {% if page.founded or page.formed %}
+    <div class="col-auto">
+      <span class="badge bg-light text-dark">
+        <i class="fas fa-calendar-plus"></i> Est. {{ page.founded | default: page.formed }}
+      </span>
+    </div>
+    {% endif %}
+
+    {% if page.capacity %}
+    <div class="col-auto">
+      <span class="badge bg-light text-dark">
+        <i class="fas fa-users"></i> Cap. {{ page.capacity }}
+      </span>
+    </div>
+    {% endif %}
+  </div>
+
+  {% if page.genre %}
+  <div class="mt-2">
+    {% for g in page.genre %}
+      <span class="badge bg-secondary me-1">{{ g }}</span>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if page.tags %}
+  <div class="mt-2">
+    {% for t in page.tags %}
+      <span class="badge bg-light text-dark me-1">{{ t }}</span>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+
+{% if page.bio %}
+<blockquote class="blockquote">
+  <p>{{ page.bio }}</p>
+</blockquote>
+{% endif %}
+
+<div class="post-content">
+  {{ content }}
+</div>
+
+{% if page.members %}
+<div class="mt-4">
+  <h5>Members</h5>
+  <ul>
+    {% for m in page.members %}
+      <li>{{ m }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+{% if page.founders %}
+<div class="mt-4">
+  <h5>Founders</h5>
+  <ul>
+    {% for f in page.founders %}
+      <li>{{ f }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+{% if page.artists %}
+<div class="mt-4">
+  <h5>Roster</h5>
+  <ul>
+    {% for a in page.artists %}
+      <li>{{ a }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
+{% if page.links %}
+<div class="mt-4">
+  <h5>Links</h5>
+  <div class="d-flex flex-wrap gap-2">
+    {% for link in page.links %}
+      {% if link[1] and link[1] != "" %}
+        <a href="{{ link[1] }}" class="btn btn-sm btn-outline-primary" target="_blank" rel="noopener">
+          {% if link[0] == 'bandcamp' %}<i class="fab fa-bandcamp"></i> Bandcamp
+          {% elsif link[0] == 'website' %}<i class="fas fa-globe"></i> Website
+          {% elsif link[0] == 'instagram' %}<i class="fab fa-instagram"></i> Instagram
+          {% elsif link[0] == 'weibo' %}<i class="fab fa-weibo"></i> Weibo
+          {% elsif link[0] == 'wechat' %}<i class="fab fa-weixin"></i> WeChat
+          {% elsif link[0] == 'netease' %}<i class="fas fa-music"></i> NetEase
+          {% else %}{{ link[0] | capitalize }}
+          {% endif %}
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}

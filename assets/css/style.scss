@@ -3,4 +3,7 @@
 
 @import '{{ site.theme }}';
 @import "spotify-embed";
+@import "layout/shows";
+@import "layout/wiki";
+@import "layout/search";
 /* append your custom style below */

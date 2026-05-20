@@ -40,6 +40,45 @@ refactor: true
   {% endfor %}
 {% endif %}
 
+<!-- Upcoming Shows Strip -->
+{% assign upcoming_shows = site.shows | where: 'type', 'upcoming' | sort: 'date' %}
+{% if upcoming_shows.size > 0 and paginator.page == 1 %}
+<div id="upcoming-shows" class="mb-4">
+  <div class="d-flex justify-content-between align-items-center mb-3">
+    <h5 class="mb-0"><i class="fas fa-calendar-alt me-2"></i>Upcoming Shows</h5>
+    <a href="{{ '/shows/' | relative_url }}" class="btn btn-sm btn-outline-primary">All Shows <i class="fas fa-arrow-right ms-1"></i></a>
+  </div>
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-2">
+    {% for show in upcoming_shows limit:5 %}
+      <div class="col">
+        <a href="{{ show.url | relative_url }}" class="text-decoration-none">
+          <div class="card show-card h-100">
+            <div class="card-body py-2 px-3">
+              <div class="d-flex justify-content-between align-items-start">
+                <div>
+                  <h6 class="card-title mb-0 small fw-bold">{{ show.title | truncate: 40 }}</h6>
+                  <p class="card-text mb-0 text-muted" style="font-size: 0.8rem;">
+                    <i class="far fa-calendar-alt fa-fw"></i>
+                    {{ show.date | date: "%m/%d" }}
+                    {% if show.end_date %} &ndash; {{ show.end_date | date: "%m/%d" }}{% endif %}
+                  </p>
+                </div>
+                <span class="badge bg-success ms-2" style="font-size: 0.65rem;">UPCOMING</span>
+              </div>
+              <p class="card-text mb-0 mt-1 text-muted" style="font-size: 0.75rem;">
+                {% if show.venue %}<i class="fas fa-map-marker-alt fa-fw"></i> {{ show.venue }}{% endif %}
+                {% if show.city %}, {{ show.city }}{% endif %}
+                {% if show.price %} · {{ show.price }}{% endif %}
+              </p>
+            </div>
+          </div>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
 <div id="post-list">
   {% for post in posts %}
     <a href="{{ post.url | relative_url }}" class="card-wrapper">
